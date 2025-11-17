@@ -1,0 +1,11 @@
+# .gitignore content
+
+models/
+venv/
+logs/
+app/
+to
+ollama
+run.py
+start.sh
+requirements.txt
