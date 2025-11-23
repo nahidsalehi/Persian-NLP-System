@@ -33,7 +33,7 @@ An intelligent Persian (Farsi) question-answering system built with Python's HAZ
    git clone https://github.com/nahidsalehi/persian-qa-system.git
    cd persian-qa-system
 7. source venv/bin/activate
-8. python trained_qa.py
+8. python AIContextualQA.py
 
 
 Perfect for demonstrating Persian NLP capabilities and intelligent text processing in non-English languages.
