@@ -26,11 +26,14 @@ An intelligent Persian (Farsi) question-answering system built with Python's HAZ
 ### Installation
 1. pip install hazm
 2. pip install scikit-learn
-3. **Clone the repository**
+3. curl -fsSL https://ollama.com/install.sh | sh
+4. ollama pull llama2
+5. ollama serve
+6. **Clone the repository**
    git clone https://github.com/nahidsalehi/persian-qa-system.git
    cd persian-qa-system
-4. source venv/bin/activate
-5. python trained_qa.py
+7. source venv/bin/activate
+8. python trained_qa.py
 
 
 Perfect for demonstrating Persian NLP capabilities and intelligent text processing in non-English languages.
